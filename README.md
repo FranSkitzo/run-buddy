@@ -1,4 +1,4 @@
-# Run Buddy
+# Run Buddy, Inc.
 
 
 ## Purpose
@@ -16,3 +16,5 @@ https://franskitzo.github.io/run-buddy/
 
 ## Contribution
 Made with :heart: by John Martinez
+
+### ©️2019 Run Buddy, Inc
